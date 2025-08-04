@@ -1,1 +1,1 @@
-The Dashboard of this project can be freely explored **[here](https://public.tableau.com/app/profile/mirko.rossi/viz/FinalDataAnalysisBooleanProject/Story?publish=yes)** ![Tableau](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Tableau.jpg)
+The Dashboard of this project can be freely explored **[here](https://public.tableau.com/app/profile/mirko.rossi/viz/FinalDataAnalysisBooleanProject/Story?publish=yes).** ![Tableau](https://github.com/mrmirkorossi/mrmirkorossi/blob/main/Tableau.jpg)
